@@ -32,6 +32,7 @@
 * ed25519 (newer) (public and private keys)
 
 * in windows/macos/linux 
+![alt text](Images/sshkeys3.png)
 
 * `ssh-keygen` - to generate keys 
 * by default ssh keys are going to store in `.ssh`

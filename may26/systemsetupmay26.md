@@ -33,7 +33,9 @@ brew install --cask visual-studio-code # for macos `code --version`
 ```prompt
 you are an expert in vscode, i am beginner i want to learn how to vscode, teach me from the scratch.
 ```
+* Here auto save for vscode 
 
+![alt text](Images/vscode.png)
 
 ### we can install extenstions 
 ![alt text](Images/systemsetup3.png)

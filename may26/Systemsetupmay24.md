@@ -27,8 +27,16 @@ B  -> labels for bottles  command 2
 * command prompt ( older one)
 * powershell ( new)
 
+
+![alt text](Images/setup1.png)
+
 * Terminal - it act like window 
 * `start .` can use to open windows file explorer. 
+
+
+![alt text](Images/setup2.png)
+
+
 
 ### Gitbash - supports linux environment commands
 
@@ -36,7 +44,7 @@ B  -> labels for bottles  command 2
 
 Note: while installing gitbash,
 
-[] add gitbash profile to terminal 
+- [x] add gitbash profile to terminal 
 
 ## windows package manger 
 * chacolatey(community)
@@ -67,6 +75,12 @@ winget install -e --id Microsoft.VisualStudioCode
 brew install --cask visual-studio-code # for macos
 ```
 * `code .`  to open vscode from terminal 
+
+![alt text](Images/systemsetup3.png)
+
+* enable autosave in vscode 
+
+![alt text](Images/vscode.png)
 
 ## python 
 ```bash

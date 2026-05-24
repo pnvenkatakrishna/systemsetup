@@ -175,3 +175,14 @@ cleanmgr
 
 
 * when you open powershell -- Default user's home directory 
+* don't run here uv init or terraform init or git init
+* if you only have C drive then 
+    * create folder in C drive (as shown in below)
+
+    ![alt text](Images/may24.png)
+    * create all the course folders in `learningzone`
+        * deepagents
+        * pyhton 
+        * MCP
+        * RAG
+

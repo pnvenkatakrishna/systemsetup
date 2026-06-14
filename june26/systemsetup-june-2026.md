@@ -121,5 +121,49 @@ i have <bankname> and debit/credit <typename> will support to create cloud accou
 you are an expert in <bank name>
 How to enable international transcations to my bank
 ```
+* orientation sessions 
+* linux sessions
+* top 20 commands
+  * ls
+  * cd
+  * mkdir
+  * touch
+  * cat
+  * vi/vim
+  * stat
+  * file
+  * ln softlink and hardlink
+  * top
+  * htop
+  * grep
+  * head
+  * tail
+  * apt/apt-get and yum/dnf
+  * wc
+  * wget
+  * curl 
+  * unzip
+  * tar 
+  * rmdir
+  * rm 
+  * scp
+  * ssh 
 
 
+* Ansible
+* GitHUB
+* cicd
+* githubactions
+* azure devops
+* terraform
+* docker 
+* kubernetes
+    * prometheous and grafana
+
+
+cloud: 
+* networking
+* storage
+* compute
+* operations
+* Iam
